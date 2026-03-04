@@ -49,16 +49,14 @@ Beyond technical work, I am deeply invested in research and believe in the power
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyuRiyanaAstaraniini&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyuRiyanaAstaraniini&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyuRiyanaAstarani&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyuRiyanaAstarani&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyuRiyanaAstaraniini&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyuRiyanaAstarani&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-
 ---
-
 ## Socials
 
 <p align="center">
